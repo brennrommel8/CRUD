@@ -1,6 +1,12 @@
 # Step by step command to run the backend and frontend
 
--After you open a folder open a 2 terminal for frontend and backend
+-first clone this repository
+paste this in your terminal and the directory you want to place the this project:
+git clone https://github.com/brennrommel8/CRUD.git
+
+then after cloning open the project
+
+-After you open a project open a 2 terminal for frontend and backend
 For backend
 1. cd backend ( change directory)
 2. npm install
