@@ -1,0 +1,13 @@
+# Step by step command to run the backend and frontend
+
+-After you open a folder open a 2 terminal for fronend and backend
+For backend
+1. cd backend ( change directory)
+2. npm install
+3. npm run dev
+(Make sure the mongodb compass is running and connected)
+
+For frontend
+1. cd frontend (change directory)
+2. npn install
+3. npm run dev
