@@ -4,6 +4,7 @@
 paste this in your terminal and the directory you want to place the this project:
 
 //Run this in your terminal
+
 git clone https://github.com/brennrommel8/CRUD.git
 
 then after cloning open the project
