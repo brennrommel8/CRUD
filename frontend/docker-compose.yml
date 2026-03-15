@@ -1,0 +1,8 @@
+name: frontend-crud
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3005:3005"
